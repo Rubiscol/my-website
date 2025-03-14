@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>2 - Category - hi</title>
+        <link>http://localhost:45195/categories/2/</link>
+        <description>2 - Category - hi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</lastBuildDate><atom:link href="http://localhost:45195/categories/2/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello World</title>
+    <link>http://localhost:45195/posts/emoji-support/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>GU YI</author>
+    <guid>http://localhost:45195/posts/emoji-support/</guid>
+    <description><![CDATA[<h3 id="about-this-website">About this website</h3>
+<p>Originally created for ORIE5250, this website eventually evolved into a personal one as I discovered the joy of having my own online space.</p>]]></description>
+</item>
+</channel>
+</rss>

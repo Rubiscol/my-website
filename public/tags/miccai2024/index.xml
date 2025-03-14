@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MICCAI2024 - Tag - hi</title>
+        <link>http://localhost:42479/tags/miccai2024/</link>
+        <description>MICCAI2024 - Tag - hi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 14 Apr 2024 10:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:42479/tags/miccai2024/" rel="self" type="application/rss+xml" /><item>
+    <title>D2UE: Revisiting Deep Ensemble Uncertainty</title>
+    <link>http://localhost:42479/posts/research-d2ue/</link>
+    <pubDate>Sun, 14 Apr 2024 10:00:00 &#43;0000</pubDate>
+    <author>Research Team</author>
+    <guid>http://localhost:42479/posts/research-d2ue/</guid>
+    <description><![CDATA[<h1 id="d2ue-revisiting-deep-ensemble-uncertainty">D2UE: Revisiting Deep Ensemble Uncertainty</h1>
+<p>This repository hosts the official PyTorch implementation of our MICCAI 2024 early accepted paper, <strong>&ldquo;Revisiting Deep Ensemble Uncertainty for Enhanced Medical Anomaly Detection&rdquo;</strong>.</p>
+<p><strong>Key Concepts: Redundancy-Aware Repulsion &amp; Dual-Space Uncertainty</strong></p>
+<p>{{&lt; figure src=&quot;/images/lighthouse.jpg&quot; title=&ldquo;Lighthouse (figure)&rdquo; &gt;}}</p>
+<ul>
+<li><strong>(a) Redundancy-Aware Repulsion (RAR):</strong> Enhances the disagreement among learners in feature space for anomalous inputs, while normal samples converge to similar reconstructions during training.</li>
+<li><strong>(b) Feature Visualization:</strong> A t-SNE plot shows how RAR pushes apart feature representations from three different learners when anomalies are present.</li>
+<li><strong>(c) Dual-Space Uncertainty (DSU):</strong> In a 1D regression setting, DSU leverages the gradient discrepancy $\nabla_{X}{f}$ to better identify anomalies compared to solely using output space uncertainty.</li>
+</ul>
+<p><strong>Overview of D2UE</strong></p>]]></description>
+</item>
+</channel>
+</rss>

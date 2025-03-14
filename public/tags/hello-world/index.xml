@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hello World - Tag - hi</title>
+        <link>http://localhost:39171/tags/hello-world/</link>
+        <description>Hello World - Tag - hi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 01 Oct 2024 17:55:28 &#43;0800</lastBuildDate><atom:link href="http://localhost:39171/tags/hello-world/" rel="self" type="application/rss+xml" /><item>
+    <title>D2UE</title>
+    <link>http://localhost:39171/posts/mrresearch/research/</link>
+    <pubDate>Tue, 01 Oct 2024 17:55:28 &#43;0800</pubDate>
+    <author>GU YI</author>
+    <guid>http://localhost:39171/posts/mrresearch/research/</guid>
+    <description><![CDATA[<h3 id="about-this-website">About this website</h3>
+<p>Originally created for ORIE5250, this website eventually evolved into a personal blog as I discovered the joy of having my own online space.</p>]]></description>
+</item>
+<item>
+    <title>Hello World</title>
+    <link>http://localhost:39171/posts/introduction/hello/</link>
+    <pubDate>Tue, 01 Oct 2024 17:55:28 &#43;0800</pubDate>
+    <author>GU YI</author>
+    <guid>http://localhost:39171/posts/introduction/hello/</guid>
+    <description><![CDATA[<h3 id="about-this-website">About this website</h3>
+<p>Originally created for ORIE5250, this website eventually evolved into a personal blog as I discovered the joy of having my own online space.</p>]]></description>
+</item>
+</channel>
+</rss>

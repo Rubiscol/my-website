@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Markdown - Tag - hi</title>
+        <link>http://localhost:39985/tags/markdown/</link>
+        <description>Markdown - Tag - hi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:39985/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>yessss</title>
+    <link>http://localhost:39985/posts/haha/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://localhost:39985/posts/haha/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+</channel>
+</rss>
