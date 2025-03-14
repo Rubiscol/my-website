@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Implementation - Category - Yi</title>
-        <link>http://example.org/categories/implementation/</link>
+        <link>http://localhost:1313/categories/implementation/</link>
         <description>Implementation - Category - Yi</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Mar 2025 10:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/categories/implementation/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Mar 2025 10:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/implementation/" rel="self" type="application/rss+xml" /><item>
     <title>D2UE: Revisiting Deep Ensemble Uncertainty</title>
-    <link>http://example.org/posts/research-d2ue/</link>
+    <link>http://localhost:1313/posts/research-d2ue/</link>
     <pubDate>Sat, 01 Mar 2025 10:00:00 &#43;0000</pubDate>
     <author>Yi</author>
-    <guid>http://example.org/posts/research-d2ue/</guid>
+    <guid>http://localhost:1313/posts/research-d2ue/</guid>
     <description><![CDATA[<p>This repository hosts the official PyTorch implementation of our MICCAI 2024 early accepted paper, &ldquo;Revisiting Deep Ensemble Uncertainty for Enhanced Medical Anomaly Detection&rdquo;.</p>]]></description>
 </item>
 </channel>

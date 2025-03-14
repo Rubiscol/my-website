@@ -2,23 +2,23 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/posts/research-vip/</loc><lastmod>2025-03-01T16:29:41&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/research-d2ue/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/posts/hello-world/</loc><lastmod>2025-03-01T17:55:28&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/anomaly-detection/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/categories/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/tags/deep-learning/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/categories/implementation/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/categories/research/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/categories/life/</loc><lastmod>2025-03-01T17:55:28&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/other/</loc><lastmod>2025-03-01T17:55:28&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/vision-language-models/</loc><lastmod>2025-03-01T16:29:41&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/documentation/</loc></url><url>
-            <loc>http://example.org/tags/content/_index.zh-cn/</loc></url><url>
-            <loc>http://example.org/tags/installation/_index.zh-cn/</loc></url><url>
-            <loc>http://example.org/categories/documentation/_index.zh-cn/</loc></url><url>
-            <loc>http://example.org/tags/configuration/_index.zh-cn/</loc></url></urlset>
+            <loc>http://localhost:1313/posts/research-vip/</loc><lastmod>2025-03-01T16:29:41&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/research-d2ue/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/hello-world/</loc><lastmod>2025-03-01T17:55:28&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/anomaly-detection/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/deep-learning/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/implementation/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/research/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2025-03-01T10:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/life/</loc><lastmod>2025-03-01T17:55:28&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/other/</loc><lastmod>2025-03-01T17:55:28&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/vision-language-models/</loc><lastmod>2025-03-01T16:29:41&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/documentation/</loc></url><url>
+            <loc>http://localhost:1313/tags/content/_index.zh-cn/</loc></url><url>
+            <loc>http://localhost:1313/tags/installation/_index.zh-cn/</loc></url><url>
+            <loc>http://localhost:1313/categories/documentation/_index.zh-cn/</loc></url><url>
+            <loc>http://localhost:1313/tags/configuration/_index.zh-cn/</loc></url></urlset>
